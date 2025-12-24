@@ -13,14 +13,22 @@ The app does **not**:
 
 All QR and barcode scanning is performed **locally on your device**.
 
+## **Gallery Permission**
+Aroya uses the device gallery **only** to allow you to upload images within the app. You must grant access to select images.
+
+The app does **not**:  
+- Access images without your permission  
+- Share your images with third parties  
+- Store images on our servers (unless explicitly uploaded by you with consent)
+
 ## **Data Collection**
-Aroya does **not** collect, store, or share any personal or sensitive user data through the camera or scanning functionality.
+Aroya does **not** collect, store, or share any personal or sensitive user data from the camera or gallery, except for images you choose to upload within the app.
 
 ## **Third-Party Sharing**
-Aroya does **not** share camera data or scanned information with any third parties.
+Aroya does **not** share camera or gallery data with any third parties.
 
 ## **Data Security**
-Since no camera data or personal information is stored or transmitted, there is **no risk of misuse** of camera-related data.
+Uploaded images are handled securely according to standard best practices. Since camera and gallery data are **not accessed without your permission**, there is minimal risk of misuse.
 
 ## **Changes to This Policy**
 This Privacy Policy may be updated if app functionality changes. **Updates will be reflected on this page.**
