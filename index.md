@@ -28,4 +28,4 @@ This Privacy Policy may be updated if app functionality changes. **Updates will 
 ## **Contact**
 If you have any questions about this Privacy Policy, please contact us at:  
 
-**support@aroya.com**
+**customercare@aroya.com**
